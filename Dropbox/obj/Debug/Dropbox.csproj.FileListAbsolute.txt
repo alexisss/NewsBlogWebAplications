@@ -1,0 +1,15 @@
+D:\HTML5, CSS3 & Java Script\WebServices & Cloud\NewsBlogProject1\Dropbox\bin\Debug\Dropbox.dll
+D:\HTML5, CSS3 & Java Script\WebServices & Cloud\NewsBlogProject1\Dropbox\bin\Debug\Dropbox.pdb
+D:\HTML5, CSS3 & Java Script\WebServices & Cloud\NewsBlogProject1\Dropbox\bin\Debug\Common.Logging.dll
+D:\HTML5, CSS3 & Java Script\WebServices & Cloud\NewsBlogProject1\Dropbox\bin\Debug\Spring.Rest.dll
+D:\HTML5, CSS3 & Java Script\WebServices & Cloud\NewsBlogProject1\Dropbox\bin\Debug\Spring.Social.Core.dll
+D:\HTML5, CSS3 & Java Script\WebServices & Cloud\NewsBlogProject1\Dropbox\bin\Debug\Spring.Social.Dropbox.dll
+D:\HTML5, CSS3 & Java Script\WebServices & Cloud\NewsBlogProject1\Dropbox\bin\Debug\Spring.Rest.pdb
+D:\HTML5, CSS3 & Java Script\WebServices & Cloud\NewsBlogProject1\Dropbox\bin\Debug\Spring.Rest.xml
+D:\HTML5, CSS3 & Java Script\WebServices & Cloud\NewsBlogProject1\Dropbox\bin\Debug\Spring.Social.Core.pdb
+D:\HTML5, CSS3 & Java Script\WebServices & Cloud\NewsBlogProject1\Dropbox\bin\Debug\Spring.Social.Core.xml
+D:\HTML5, CSS3 & Java Script\WebServices & Cloud\NewsBlogProject1\Dropbox\bin\Debug\Spring.Social.Dropbox.pdb
+D:\HTML5, CSS3 & Java Script\WebServices & Cloud\NewsBlogProject1\Dropbox\bin\Debug\Spring.Social.Dropbox.xml
+D:\HTML5, CSS3 & Java Script\WebServices & Cloud\NewsBlogProject1\Dropbox\obj\Debug\Dropbox.csprojResolveAssemblyReference.cache
+D:\HTML5, CSS3 & Java Script\WebServices & Cloud\NewsBlogProject1\Dropbox\obj\Debug\Dropbox.dll
+D:\HTML5, CSS3 & Java Script\WebServices & Cloud\NewsBlogProject1\Dropbox\obj\Debug\Dropbox.pdb

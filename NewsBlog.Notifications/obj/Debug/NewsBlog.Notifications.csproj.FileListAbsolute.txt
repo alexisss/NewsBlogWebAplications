@@ -1,0 +1,7 @@
+D:\HTML5, CSS3 & Java Script\WebServices & Cloud\NewsBlogProject1\NewsBlog.Notifications\bin\Debug\NewsBlog.Notifications.dll.config
+D:\HTML5, CSS3 & Java Script\WebServices & Cloud\NewsBlogProject1\NewsBlog.Notifications\bin\Debug\NewsBlog.Notifications.dll
+D:\HTML5, CSS3 & Java Script\WebServices & Cloud\NewsBlogProject1\NewsBlog.Notifications\bin\Debug\NewsBlog.Notifications.pdb
+D:\HTML5, CSS3 & Java Script\WebServices & Cloud\NewsBlogProject1\NewsBlog.Notifications\bin\Debug\Newtonsoft.Json.dll
+D:\HTML5, CSS3 & Java Script\WebServices & Cloud\NewsBlogProject1\NewsBlog.Notifications\obj\Debug\NewsBlog.Notifications.csprojResolveAssemblyReference.cache
+D:\HTML5, CSS3 & Java Script\WebServices & Cloud\NewsBlogProject1\NewsBlog.Notifications\obj\Debug\NewsBlog.Notifications.dll
+D:\HTML5, CSS3 & Java Script\WebServices & Cloud\NewsBlogProject1\NewsBlog.Notifications\obj\Debug\NewsBlog.Notifications.pdb

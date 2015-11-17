@@ -1,0 +1,10 @@
+D:\HTML5, CSS3 & Java Script\WebServices & Cloud\NewsBlogProject1\NewsBlog.Repository\bin\Debug\NewsBlog.Repository.dll.config
+D:\HTML5, CSS3 & Java Script\WebServices & Cloud\NewsBlogProject1\NewsBlog.Repository\bin\Debug\NewsBlog.Repository.dll
+D:\HTML5, CSS3 & Java Script\WebServices & Cloud\NewsBlogProject1\NewsBlog.Repository\bin\Debug\NewsBlog.Repository.pdb
+D:\HTML5, CSS3 & Java Script\WebServices & Cloud\NewsBlogProject1\NewsBlog.Repository\bin\Debug\EntityFramework.dll
+D:\HTML5, CSS3 & Java Script\WebServices & Cloud\NewsBlogProject1\NewsBlog.Repository\bin\Debug\NewsBlog.Model.dll
+D:\HTML5, CSS3 & Java Script\WebServices & Cloud\NewsBlogProject1\NewsBlog.Repository\bin\Debug\NewsBlog.Model.pdb
+D:\HTML5, CSS3 & Java Script\WebServices & Cloud\NewsBlogProject1\NewsBlog.Repository\bin\Debug\EntityFramework.xml
+D:\HTML5, CSS3 & Java Script\WebServices & Cloud\NewsBlogProject1\NewsBlog.Repository\obj\Debug\NewsBlog.Repository.csprojResolveAssemblyReference.cache
+D:\HTML5, CSS3 & Java Script\WebServices & Cloud\NewsBlogProject1\NewsBlog.Repository\obj\Debug\NewsBlog.Repository.dll
+D:\HTML5, CSS3 & Java Script\WebServices & Cloud\NewsBlogProject1\NewsBlog.Repository\obj\Debug\NewsBlog.Repository.pdb
